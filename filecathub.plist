@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://m.eascs.com:7002/easd/m/wsd_3th/WSD.ipa</string>
+					<string>http://m.eascs.com:7002/easd/m/EATMSiPhone_3th/EATMSiPhone.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://m.eascs.com:7002/easd/m/img_app_start_iPhone_blue_114.png</string>
+					<string>http://m.eascs.com:7002/easd/m/EATMSiPhone_3th/EATMSiPhoneIcon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,21 +27,21 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://m.eascs.com:7002/easd/m/img_app_start_iPhone_blue.png</string>
+					<string>http://m.eascs.com:7002/easd/m/EATMSiPhone_3th/EATMSiPhoneIcon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.eascs.WSD</string>
+				<string>com.eascs.EATMSiPhone</string>
 				<key>bundle-version</key>
-				<string>11.5</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>version 2.0</string>
+				<string>version 1.0</string>
 				<key>title</key>
-				<string>WSD 2.0</string>
+				<string>派车iPhone</string>
 			</dict>
 		</dict>
 	</array>
